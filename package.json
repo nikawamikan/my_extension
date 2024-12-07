@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "my-extension.helloWorld",
-        "title": "Hello World"
+        "command": "my-extension.destroy",
+        "title": "Destroy"
       }
     ]
   },
